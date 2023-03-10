@@ -1,0 +1,8 @@
+C:\Users\hakan\Source\Repos\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.exe.config
+C:\Users\hakan\Source\Repos\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.exe
+C:\Users\hakan\Source\Repos\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.pdb
+C:\Users\hakan\Source\Repos\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.csproj.AssemblyReference.cache
+C:\Users\hakan\Source\Repos\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.csproj.SuggestedBindingRedirects.cache
+C:\Users\hakan\Source\Repos\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.csproj.CoreCompileInputs.cache
+C:\Users\hakan\Source\Repos\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.exe
+C:\Users\hakan\Source\Repos\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.pdb

@@ -1,0 +1,8 @@
+C:\Users\hakan\source\repos\csharpinterface\csharpinterface\bin\Debug\csharpinterface.exe.config
+C:\Users\hakan\source\repos\csharpinterface\csharpinterface\bin\Debug\csharpinterface.exe
+C:\Users\hakan\source\repos\csharpinterface\csharpinterface\bin\Debug\csharpinterface.pdb
+C:\Users\hakan\source\repos\csharpinterface\csharpinterface\obj\Debug\csharpinterface.csproj.AssemblyReference.cache
+C:\Users\hakan\source\repos\csharpinterface\csharpinterface\obj\Debug\csharpinterface.csproj.SuggestedBindingRedirects.cache
+C:\Users\hakan\source\repos\csharpinterface\csharpinterface\obj\Debug\csharpinterface.csproj.CoreCompileInputs.cache
+C:\Users\hakan\source\repos\csharpinterface\csharpinterface\obj\Debug\csharpinterface.exe
+C:\Users\hakan\source\repos\csharpinterface\csharpinterface\obj\Debug\csharpinterface.pdb
