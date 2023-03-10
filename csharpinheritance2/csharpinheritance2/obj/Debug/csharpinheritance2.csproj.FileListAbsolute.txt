@@ -1,0 +1,8 @@
+C:\Users\hakan\source\repos\csharpinheritance2\csharpinheritance2\bin\Debug\csharpinheritance2.exe.config
+C:\Users\hakan\source\repos\csharpinheritance2\csharpinheritance2\bin\Debug\csharpinheritance2.exe
+C:\Users\hakan\source\repos\csharpinheritance2\csharpinheritance2\bin\Debug\csharpinheritance2.pdb
+C:\Users\hakan\source\repos\csharpinheritance2\csharpinheritance2\obj\Debug\csharpinheritance2.csproj.AssemblyReference.cache
+C:\Users\hakan\source\repos\csharpinheritance2\csharpinheritance2\obj\Debug\csharpinheritance2.csproj.SuggestedBindingRedirects.cache
+C:\Users\hakan\source\repos\csharpinheritance2\csharpinheritance2\obj\Debug\csharpinheritance2.csproj.CoreCompileInputs.cache
+C:\Users\hakan\source\repos\csharpinheritance2\csharpinheritance2\obj\Debug\csharpinheritance2.exe
+C:\Users\hakan\source\repos\csharpinheritance2\csharpinheritance2\obj\Debug\csharpinheritance2.pdb

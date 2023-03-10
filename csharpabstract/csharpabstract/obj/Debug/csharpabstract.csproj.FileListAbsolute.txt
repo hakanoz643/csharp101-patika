@@ -1,0 +1,8 @@
+C:\Users\hakan\source\repos\csharpabstract\csharpabstract\bin\Debug\csharpabstract.exe.config
+C:\Users\hakan\source\repos\csharpabstract\csharpabstract\bin\Debug\csharpabstract.exe
+C:\Users\hakan\source\repos\csharpabstract\csharpabstract\bin\Debug\csharpabstract.pdb
+C:\Users\hakan\source\repos\csharpabstract\csharpabstract\obj\Debug\csharpabstract.csproj.AssemblyReference.cache
+C:\Users\hakan\source\repos\csharpabstract\csharpabstract\obj\Debug\csharpabstract.csproj.SuggestedBindingRedirects.cache
+C:\Users\hakan\source\repos\csharpabstract\csharpabstract\obj\Debug\csharpabstract.csproj.CoreCompileInputs.cache
+C:\Users\hakan\source\repos\csharpabstract\csharpabstract\obj\Debug\csharpabstract.exe
+C:\Users\hakan\source\repos\csharpabstract\csharpabstract\obj\Debug\csharpabstract.pdb
