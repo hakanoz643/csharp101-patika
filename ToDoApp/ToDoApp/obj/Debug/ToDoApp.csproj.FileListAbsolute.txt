@@ -1,0 +1,13 @@
+C:\Users\hakan\source\repos\ToDoApp\ToDoApp\bin\Debug\ToDoApp.exe.config
+C:\Users\hakan\source\repos\ToDoApp\ToDoApp\bin\Debug\ToDoApp.exe
+C:\Users\hakan\source\repos\ToDoApp\ToDoApp\bin\Debug\ToDoApp.pdb
+C:\Users\hakan\source\repos\ToDoApp\ToDoApp\bin\Debug\EntityFramework.dll
+C:\Users\hakan\source\repos\ToDoApp\ToDoApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hakan\source\repos\ToDoApp\ToDoApp\bin\Debug\EntityFramework.xml
+C:\Users\hakan\source\repos\ToDoApp\ToDoApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hakan\source\repos\ToDoApp\ToDoApp\obj\Debug\ToDoApp.csproj.AssemblyReference.cache
+C:\Users\hakan\source\repos\ToDoApp\ToDoApp\obj\Debug\ToDoApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\hakan\source\repos\ToDoApp\ToDoApp\obj\Debug\ToDoApp.csproj.CoreCompileInputs.cache
+C:\Users\hakan\source\repos\ToDoApp\ToDoApp\obj\Debug\ToDoApp.csproj.CopyComplete
+C:\Users\hakan\source\repos\ToDoApp\ToDoApp\obj\Debug\ToDoApp.exe
+C:\Users\hakan\source\repos\ToDoApp\ToDoApp\obj\Debug\ToDoApp.pdb
