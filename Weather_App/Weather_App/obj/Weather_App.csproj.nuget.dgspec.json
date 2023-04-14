@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HAKAN\\Source\\Repos\\csharp101-patika\\Weather_App\\Weather_App\\Weather_App.csproj": {}
+    "C:\\Users\\HAKAN\\source\\repos\\csharp101-patika\\Weather_App\\Weather_App\\Weather_App.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HAKAN\\Source\\Repos\\csharp101-patika\\Weather_App\\Weather_App\\Weather_App.csproj": {
+    "C:\\Users\\HAKAN\\source\\repos\\csharp101-patika\\Weather_App\\Weather_App\\Weather_App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HAKAN\\Source\\Repos\\csharp101-patika\\Weather_App\\Weather_App\\Weather_App.csproj",
+        "projectUniqueName": "C:\\Users\\HAKAN\\source\\repos\\csharp101-patika\\Weather_App\\Weather_App\\Weather_App.csproj",
         "projectName": "Weather_App",
-        "projectPath": "C:\\Users\\HAKAN\\Source\\Repos\\csharp101-patika\\Weather_App\\Weather_App\\Weather_App.csproj",
+        "projectPath": "C:\\Users\\HAKAN\\source\\repos\\csharp101-patika\\Weather_App\\Weather_App\\Weather_App.csproj",
         "packagesPath": "C:\\Users\\HAKAN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HAKAN\\Source\\Repos\\csharp101-patika\\Weather_App\\Weather_App\\obj\\",
+        "outputPath": "C:\\Users\\HAKAN\\source\\repos\\csharp101-patika\\Weather_App\\Weather_App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
